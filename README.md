@@ -1,7 +1,7 @@
 # 📘 AWS 3-Tier Architecture Deployment Guide
 
 This guide provides a **step-by-step approach** to deploy a scalable, highly available AWS 3-Tier Architecture using a **bottom-up methodology**.
-
+      
 ---    
 
 ## 🛠 Services Used
